@@ -1,0 +1,12 @@
+# skills section data
+
+label: Proficiency
+id : cs
+pl: Python, C++, SQL, Java, Javascript, HTML/CSS
+plpercentage: 90, 80, 80, 60, 60, 60
+
+id1 : ft
+ft: PyTorch, Airflow, Kafka, Docker, Kubernetes, Elasticsearch, MongoDB
+ftpercentage: 90, 90, 80, 60, 60, 60, 60
+
+

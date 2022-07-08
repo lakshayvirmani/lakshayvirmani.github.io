@@ -1,0 +1,89 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Voaige Inc.
+    i18n: company_c
+  desc:
+    detail: Perception Team.
+    i18n: company_c_desc
+  date:
+    detail: May 2022
+    i18n: company_c_date
+  job:
+    detail: Computer Vision Research Intern
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Carnegie Mellon University
+    i18n: company_b
+  desc:
+    detail: 17647 - Data Intensive and Scalable Systems.
+    i18n: company_b_desc
+  date:
+    detail: Mar - May 2022
+    i18n: company_b_date
+  job:
+    detail: Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Carnegie Mellon University
+    i18n: company_b
+  desc:
+    detail: 17635 - Software Architectures
+    i18n: company_b_desc
+  date:
+    detail: Jan - Mar 2022
+    i18n: company_b_date
+  job:
+    detail: Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Khatabook
+    i18n: company_c
+  desc:
+    detail: Data Platform.
+    i18n: company_c_desc
+  date:
+    detail: Sept 2019 - Nov 2021
+    i18n: company_c_date
+  job:
+    detail: Senior Software Development Engineer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Amazon
+    i18n: company_b
+  desc:
+    detail: Distributed Computing Services.
+    i18n: company_b_desc
+  date:
+    detail: June 2018 - Aug 2019
+    i18n: company_b_date
+  job:
+    detail: Software Development Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Amazon
+    i18n: company_b
+  desc:
+    detail: Fast Data Technologies.
+    i18n: company_b_desc
+  date:
+    detail: May - July 2017
+    i18n: company_b_date
+  job:
+    detail: Software Development Engineer Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+#As a part of the perception team, I am responsible for setting up the core vision stack for robotic arms. After working on problems like surface and edge detection, and keypoint matching for point cloud registration, now I am helping solve "grasping" for applications like bin picking and palettizing. I am also leading the efforts to build a robust deep learning model for machine inspection using self-supervised learning.
+#Build the entire data platform from scratch.
+
