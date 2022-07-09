@@ -8,11 +8,13 @@
     
     <div class="row features-block">
         <div class="wow zoomIn col-lg-6 col-lg-offset-3">
-            <canvas id="{{ site.data.index.skills.id }}" height="500" width="500"></canvas>
+            <canvas id="{{ site.data.index.skills.id }}" height="500" width="500" align="center"></canvas>
         </div>
         <div class="col-lg-1"></div>
         <script>
         var ctx = document.getElementById("{{ site.data.index.skills.id }}");
+        ctx.width = window.innerWidth;
+        ctx.height = window.innerHeight;
         var data = {
             labels: "{{ site.data.index.skills.pl }}".split(","),
             datasets: [{
@@ -51,11 +53,13 @@
     
     <div class="row features-block">
         <div class="wow zoomIn col-lg-6 col-lg-offset-3">
-            <canvas id="{{ site.data.index.skills.id1 }}" height="500" width="500"></canvas>
+            <canvas id="{{ site.data.index.skills.id1 }}" height="500" width="500" align="center"></canvas>
         </div>
         <div class="col-lg-1"></div>
         <script>
         var ctx = document.getElementById("{{ site.data.index.skills.id1 }}");
+        ctx.width = window.innerWidth;
+        ctx.height = window.innerHeight;
         var data = {
             labels: "{{ site.data.index.skills.ft }}".split(","),
             datasets: [{
