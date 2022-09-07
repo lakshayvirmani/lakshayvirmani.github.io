@@ -1,13 +1,27 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Carnegie Mellon University
+    i18n: company_b
+  desc:
+    detail: 17615 - Data Structures And Algorithms
+    i18n: company_b_desc
+  date:
+    detail: Aug 2022
+    i18n: company_b_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: Voaige Inc.
     i18n: company_c
   desc:
     detail: Perception Team.
     i18n: company_c_desc
   date:
-    detail: May 2022
+    detail: May - Aug 2022
     i18n: company_c_date
   job:
     detail: Computer Vision Research Intern
@@ -24,7 +38,7 @@
     detail: Mar - May 2022
     i18n: company_b_date
   job:
-    detail: Teaching Assistant
+    detail: Graduate Teaching Assistant
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -38,7 +52,7 @@
     detail: Jan - Mar 2022
     i18n: company_b_date
   job:
-    detail: Teaching Assistant
+    detail: Graduate Teaching Assistant
     i18n: company_b_job
   icon: fa-plus-square
 
