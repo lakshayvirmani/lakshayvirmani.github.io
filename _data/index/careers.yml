@@ -4,10 +4,52 @@
     detail: Carnegie Mellon University
     i18n: company_b
   desc:
+    detail: 17647 - Data Intensive and Scalable Systems
+    i18n: company_b_desc
+  date:
+    detail: Mar - May 2023
+    i18n: company_b_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Carnegie Mellon University
+    i18n: company_b
+  desc:
+    detail: 17635 - Software Architectures
+    i18n: company_b_desc
+  date:
+    detail: Jan - Mar 2023
+    i18n: company_b_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Carnegie Mellon University
+    i18n: company_b
+  desc:
+    detail: 17625 - API Design
+    i18n: company_b_desc
+  date:
+    detail: Oct - Dec 2022
+    i18n: company_b_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Carnegie Mellon University
+    i18n: company_b
+  desc:
     detail: 17615 - Data Structures And Algorithms
     i18n: company_b_desc
   date:
-    detail: Aug 2022
+    detail: Aug - Oct 2022
     i18n: company_b_date
   job:
     detail: Graduate Teaching Assistant
@@ -32,7 +74,7 @@
     detail: Carnegie Mellon University
     i18n: company_b
   desc:
-    detail: 17647 - Data Intensive and Scalable Systems.
+    detail: 17647 - Data Intensive and Scalable Systems
     i18n: company_b_desc
   date:
     detail: Mar - May 2022
@@ -74,7 +116,7 @@
     detail: Amazon
     i18n: company_b
   desc:
-    detail: Distributed Computing Services.
+    detail: Distributed Computing Services
     i18n: company_b_desc
   date:
     detail: June 2018 - Aug 2019
@@ -88,7 +130,7 @@
     detail: Amazon
     i18n: company_b
   desc:
-    detail: Fast Data Technologies.
+    detail: Fast Data Technologies
     i18n: company_b_desc
   date:
     detail: May - July 2017
